@@ -149,3 +149,4 @@ Milestones são marcos históricos do projeto para ajudar a guiar o desenvolvime
 <a href="https://github.com/filipedeschamps/tabnews.com.br/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=filipedeschamps/tabnews.com.br&max=500" alt="Lista de contribuidores" width="100%"/>
 </a>
+# nextbr
